@@ -29,7 +29,7 @@ html {
 .cal-container .cal .inp .big, .cal-container .cal .inp .small {
   width: 100%;
   padding: 5px 10px;
-  font-size: 30px;
+  font-size: 38px;
   outline: none;
   border: none;
   background: transparent;
@@ -40,7 +40,7 @@ html {
 }
 .cal-container .cal .inp .small {
   padding: 2px 10px;
-  font-size: 18px;
+  font-size: 20px;
 }
 .cal-container .cal .btn-container {
   width: 100%;
@@ -69,8 +69,11 @@ html {
 .cal-container .cal .btn-container .btn-row .btn.blue {
   background: rgb(13, 13, 161);
   font-weight: bold;
-  font-size: 24px;
-  padding: 10px 0;
+  font-size: 25px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .cal-container .cal .btn-container .btn-row .btn:hover {
   background: firebrick;
