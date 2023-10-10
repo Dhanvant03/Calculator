@@ -20,7 +20,7 @@ html {
   justify-content: center;
 }
 .cal-container .cal {
-  width: 280px;
+  width: 350px;
   height: auto;
   background: rgba(0, 0, 0, 0.8);
   border-radius: 8px;
@@ -54,7 +54,7 @@ html {
 .cal-container .cal .btn-container .btn-row .btn {
   color: white;
   font-size: 20px;
-  padding: 12px 2px;
+  padding: 20px 2px;
   background: #000;
   text-align: center;
   border-radius: 5px;
