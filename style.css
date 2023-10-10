@@ -26,11 +26,6 @@ html {
   border-radius: 8px;
   padding: 12px;
 }
-@media (max-width: 400px) {
-  .cal-container .cal {
-    width: 100%;
-  }
-}
 .cal-container .cal .inp .big, .cal-container .cal .inp .small {
   width: 100%;
   padding: 5px 10px;
